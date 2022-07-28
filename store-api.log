@@ -1,0 +1,127 @@
+2022-05-30T00:21:20.206Z [store - api] error GET  - undefined
+2022-05-30T00:22:33.512Z [store - api] error GET  - undefined
+2022-05-30T00:22:35.628Z [store - api] error GET  - undefined
+2022-05-30T00:23:20.397Z [store - api] info GET /dog
+2022-05-30T00:23:28.137Z [store - api] info GET /dog
+2022-05-30T00:23:31.414Z [store - api] error GET  - undefined
+2022-05-30T00:24:12.542Z [store - api] info GET /owner
+2022-05-30T00:24:15.290Z [store - api] info GET /owner
+2022-05-30T00:28:43.433Z [store - api] info GET /owner
+2022-05-30T00:28:46.828Z [store - api] info GET /owner
+2022-05-30T00:28:49.601Z [store - api] info GET /owner
+2022-05-30T00:29:35.558Z [store - api] error GET  - undefined
+2022-05-30T00:29:52.059Z [store - api] info GET /dog
+2022-05-30T00:30:29.551Z [store - api] info GET /dog
+2022-05-30T00:30:56.705Z [store - api] info GET /dog
+2022-05-30T00:31:00.193Z [store - api] info GET /dog
+2022-05-30T00:31:03.735Z [store - api] info GET /dog
+2022-05-30T00:31:28.848Z [store - api] info GET /dog
+2022-05-30T00:31:38.393Z [store - api] info GET /dog
+2022-05-30T00:31:50.549Z [store - api] info GET /dog
+2022-05-30T00:33:24.867Z [store - api] error POST  - undefined
+2022-05-30T00:33:43.861Z [store - api] info POST /dog - {"nome":"Totó","tipo":"Cachorro","proprietario_id":6}
+2022-05-30T00:33:53.019Z [store - api] info GET /dog
+2022-05-30T00:34:13.872Z [store - api] info GET /dog
+2022-05-30T00:34:24.452Z [store - api] info GET /dog
+2022-05-30T00:34:32.690Z [store - api] info GET /owner
+2022-05-30T00:38:28.085Z [store - api] error DELETE  - undefined
+2022-05-30T00:38:48.935Z [store - api] error DELETE  - undefined
+2022-05-30T00:39:08.182Z [store - api] error DELETE  - undefined
+2022-05-30T00:39:13.877Z [store - api] error DELETE  - undefined
+2022-05-30T00:39:52.128Z [store - api] info GET /dog
+2022-05-30T00:40:07.513Z [store - api] info GET /owner
+2022-05-30T00:40:30.306Z [store - api] info GET /dog
+2022-05-30T00:40:34.127Z [store - api] info GET /dog
+2022-05-30T00:40:52.606Z [store - api] info DELETE /dog - 1
+2022-05-30T00:40:55.144Z [store - api] info GET /dog
+2022-05-30T00:41:12.153Z [store - api] info GET /dog
+2022-05-30T00:41:29.523Z [store - api] info GET /dog
+2022-06-07T01:15:33.702Z [store - api] error POST  - undefined
+2022-06-07T01:15:41.992Z [store - api] error GET  - undefined
+2022-06-07T01:16:08.093Z [store - api] info POST /dog - {"nome":"Totó","tipo":"Cachorro","proprietarioId":6}
+2022-06-07T01:16:55.700Z [store - api] info GET /dog
+2022-06-07T01:17:25.077Z [store - api] info GET /dog
+2022-06-07T01:19:11.290Z [store - api] error PUT  - undefined
+2022-06-07T01:20:06.750Z [store - api] error PUT  - undefined
+2022-06-07T01:21:01.769Z [store - api] info PUT /dog - {"animalId":9,"nome":"Amora Roxa","tipo":"Cachorro","proprietarioId":6}
+2022-06-07T01:21:04.538Z [store - api] info GET /dog
+2022-06-07T01:22:14.032Z [store - api] info DELETE /dog - 9
+2022-06-07T01:22:16.104Z [store - api] info GET /dog
+2022-06-07T01:22:18.324Z [store - api] info GET /dog
+2022-06-07T01:23:14.052Z [store - api] info GET /dog
+2022-06-07T01:23:36.145Z [store - api] info GET /dog
+2022-06-07T01:26:20.430Z [store - api] info GET /owner
+2022-06-07T01:27:28.970Z [store - api] info POST /owner - {"nome":"teste proprietario","telefone":"(31)99999999"}
+2022-06-07T01:27:41.498Z [store - api] info GET /owner
+2022-06-07T01:27:44.831Z [store - api] info GET /owner
+2022-06-07T01:27:55.525Z [store - api] error PUT  - undefined
+2022-06-07T01:28:19.484Z [store - api] info PUT /owner - {"proprietarioId":7,"nome":"teste proprietario 2","telefone":"(31)99999999"}
+2022-06-07T01:28:22.538Z [store - api] info GET /owner
+2022-06-07T01:28:26.487Z [store - api] error DELETE  - undefined
+2022-06-07T01:29:00.664Z [store - api] info GET /dog
+2022-06-07T01:29:26.436Z [store - api] info DELETE /owner - 7
+2022-06-07T01:29:29.590Z [store - api] info GET /owner
+2022-06-07T01:57:23.271Z [store - api] info GET /dog
+2022-06-07T01:59:10.483Z [store - api] info POST /service - {"descricao":"Tosa","valor":50.5,"animalId":2}
+2022-06-07T01:59:33.190Z [store - api] info POST /service - {"descricao":"Tosa","valor":200,"animalId":2}
+2022-06-07T01:59:43.810Z [store - api] error GET  - undefined
+2022-06-07T02:00:01.520Z [store - api] info GET /dog
+2022-06-07T02:01:51.492Z [store - api] info GET /dog
+2022-06-07T02:01:57.045Z [store - api] info POST /service - {"descricao":"Tosa","valor":200,"animalId":3}
+2022-06-07T02:01:58.809Z [store - api] info GET /dog
+2022-06-07T02:02:20.353Z [store - api] info GET /dog
+2022-06-07T02:03:59.022Z [store - api] info GET /dog
+2022-06-07T02:04:29.063Z [store - api] info GET /dog
+2022-06-07T02:06:40.507Z [store - api] info POST /service - {"descricao":"Tosa","valor":200,"animalId":4}
+2022-06-07T02:06:42.406Z [store - api] info GET /dog
+2022-06-07T02:06:53.966Z [store - api] info GET /dog
+2022-06-07T02:31:58.417Z [store - api] info POST /post - {"titulo":"Post 1","conteudo":"Conteudo post","comentarios":[{"nome":"Gustavo","conteudo":"Conteudo comentario"}],"_id":"629eb89e2fc306049e48536d"}
+2022-06-07T02:32:27.793Z [store - api] error GET  - undefined
+2022-06-07T02:34:08.652Z [store - api] error GET  - undefined
+2022-06-07T02:34:17.794Z [store - api] error GET  - undefined
+2022-06-07T02:34:42.973Z [store - api] info GET /Post
+2022-06-07T02:35:11.105Z [store - api] info GET /Post
+2022-06-07T02:36:20.615Z [store - api] info GET /Post
+2022-06-07T02:36:38.271Z [store - api] info POST /post - {"titulo":"Post 2","conteudo":"Conteudo post","comentarios":[{"nome":"Gustavo","conteudo":"Conteudo comentario"}],"_id":"629eb9b674aac53b01c1b0bb"}
+2022-06-07T02:37:01.579Z [store - api] info GET /Post
+2022-06-07T02:37:19.430Z [store - api] info GET /Post
+2022-06-07T02:38:03.956Z [store - api] info GET /Post
+2022-06-07T02:39:15.317Z [store - api] info GET /Post
+2022-06-07T02:45:16.132Z [store - api] info GET /Post
+2022-06-07T02:45:26.817Z [store - api] info POST /post - {"titulo":"Post 3","conteudo":"Conteudo post","comentarios":[{"nome":"Gustavo","conteudo":"Conteudo comentario"}],"_id":"629ebbc60ff9de922f94407d"}
+2022-06-07T02:45:28.013Z [store - api] info GET /Post
+2022-06-07T02:52:21.568Z [store - api] error POST  - undefined
+2022-06-07T02:52:57.124Z [store - api] info post /commentary
+2022-06-07T02:55:32.791Z [store - api] info post /commentary
+2022-06-07T02:55:45.612Z [store - api] info GET /Post
+2022-06-07T02:55:50.752Z [store - api] info post /commentary
+2022-06-07T02:56:12.610Z [store - api] info post /commentary
+2022-06-07T02:58:13.245Z [store - api] error POST  - undefined
+2022-06-07T02:58:51.184Z [store - api] error POST  - undefined
+2022-06-07T03:13:45.917Z [store - api] error POST  - undefined
+2022-06-07T03:14:13.433Z [store - api] error POST  - undefined
+2022-06-07T03:14:32.264Z [store - api] error POST  - undefined
+2022-06-07T03:14:57.196Z [store - api] error POST  - undefined
+2022-06-07T03:17:35.435Z [store - api] error POST  - undefined
+2022-06-07T03:17:47.096Z [store - api] error POST  - undefined
+2022-06-07T03:19:59.602Z [store - api] error POST  - undefined
+2022-06-07T03:20:42.010Z [store - api] error POST  - undefined
+2022-06-07T03:20:54.314Z [store - api] info post /commentary
+2022-06-07T03:21:36.574Z [store - api] info post /commentary
+2022-06-07T03:22:42.502Z [store - api] info post /commentary
+2022-06-07T03:23:20.498Z [store - api] info post /commentary
+2022-06-07T03:34:07.027Z [store - api] info GET /dog
+2022-06-07T03:35:07.185Z [store - api] info GET /dog
+2022-06-07T03:35:22.976Z [store - api] info GET /dog
+2022-06-07T03:36:07.175Z [store - api] info POST /service - {"descricao":"Consulta","valor":200,"animalId":5}
+2022-06-07T03:36:21.685Z [store - api] info GET /dog
+2022-06-07T03:36:37.243Z [store - api] info GET /dog
+2022-06-07T03:36:48.556Z [store - api] info GET /dog
+2022-06-07T03:37:05.886Z [store - api] info GET /dog
+2022-06-07T03:37:22.129Z [store - api] info GET /owner
+2022-06-07T03:37:56.086Z [store - api] info GET /dog
+2022-06-07T03:38:20.041Z [store - api] info GET /dog
+2022-06-07T03:39:03.495Z [store - api] error GET  - undefined
+2022-06-07T03:39:35.793Z [store - api] info GET /dog
+2022-06-07T03:40:13.832Z [store - api] info GET /dog
+2022-06-07T03:40:29.114Z [store - api] info GET /dog
